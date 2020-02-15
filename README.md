@@ -1,2 +1,2 @@
-# gauravbytes
-examples for blog.gauravbytes.com
+# sureshmunnangi
+examples of spring/springboot projects
